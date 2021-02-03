@@ -39,7 +39,7 @@ database is listening on port 3306. Run the following command to start applicati
 
 Please note that some data were pre-populated through SQL query with the following order, departmentseeds.sql, roleseeds.sql and employeeseeds.sql.
 
-![Demo](https://github.com/qifeng86/homework12-Employee-Tracker/blob/main/homework12.gif)
+![Demo](https://github.com/qifeng86/homework12-Employee-Tracker/blob/master/homework12.gif)
 
 # License
 
